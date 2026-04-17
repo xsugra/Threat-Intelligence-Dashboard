@@ -138,7 +138,7 @@ The interactive HTML includes click-able markers with:
 
 ## License
 
-This repository is provided under the MIT License. See `LICENSE`.
+This repository is provided under the MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
